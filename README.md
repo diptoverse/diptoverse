@@ -62,7 +62,7 @@ Enterprise discovery, technical consultation, solution design, architecture disc
 
 Experienced in connecting complex technology capabilities with enterprise requirements, translating customer challenges into solution approaches, and aligning technical value with business outcomes.
 
-Engaged with the Cloud Native ecosystem through KubeCon + CloudNativeCon Europe 2024 in Paris, KubeCon + CloudNativeCon Europe 2025 in London, and KCT events in Bangalore and Dhaka.
+Engaged with the Cloud Native ecosystem through KubeCon + CloudNativeCon Europe 2024 in Paris, KubeCon + CloudNativeCon Europe 2025 in London, and Kubernetes Community Days events in Bangalore and Dhaka.
 
 ### Kubernetes & Cloud Native DevOps Engineering
 
