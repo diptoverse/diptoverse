@@ -38,48 +38,18 @@ Exploring how to turn AI capabilities into useful applications and intelligent w
 
 ## Technology & Tools
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Sales Engineering</h3>
-      <img src="https://cdn.simpleicons.org/salesforce" width="40" alt="Salesforce" />
-      <img src="https://cdn.simpleicons.org/zoominfo" width="40" alt="ZoomInfo" />
-      <img src="https://cdn.simpleicons.org/linkedin" width="40" alt="LinkedIn" />
-      <img src="https://cdn.simpleicons.org/hubspot" width="40" alt="HubSpot" />
-      <img src="https://cdn.simpleicons.org/postman" width="40" alt="Postman" />
-      <img src="https://cdn.simpleicons.org/swagger" width="40" alt="Swagger" />
-      <img src="https://cdn.simpleicons.org/jira" width="40" alt="Jira" />
-      <img src="https://cdn.simpleicons.org/slack" width="40" alt="Slack" />
-    </td>
-
-    <td align="center" width="33%">
-      <h3>DevOps & DevSecOps</h3>
-      <img src="https://cdn.simpleicons.org/git" width="40" alt="Git" />
-      <img src="https://cdn.simpleicons.org/linux" width="40" alt="Linux" />
-      <img src="https://cdn.simpleicons.org/docker" width="40" alt="Docker" />
-      <img src="https://cdn.simpleicons.org/kubernetes" width="40" alt="Kubernetes" />
-      <img src="https://cdn.simpleicons.org/amazonaws" width="40" alt="AWS" />
-      <img src="https://cdn.simpleicons.org/terraform" width="40" alt="Terraform" />
-      <img src="https://cdn.simpleicons.org/githubactions" width="40" alt="GitHub Actions" />
-      <img src="https://cdn.simpleicons.org/trivy" width="40" alt="Trivy" />
-      <img src="https://cdn.simpleicons.org/sonarqube" width="40" alt="SonarQube" />
-      <img src="https://cdn.simpleicons.org/owasp" width="40" alt="OWASP" />
-    </td>
-
-    <td align="center" width="33%">
-      <h3>AI Engineering</h3>
-      <img src="https://cdn.simpleicons.org/python" width="40" alt="Python" />
-      <img src="https://cdn.simpleicons.org/fastapi" width="40" alt="FastAPI" />
-      <img src="https://cdn.simpleicons.org/anthropic" width="40" alt="Anthropic Claude API" />
-      <img src="https://cdn.simpleicons.org/openai" width="40" alt="OpenAI" />
-      <img src="https://cdn.simpleicons.org/langchain" width="40" alt="LangChain" />
-      <img src="https://cdn.simpleicons.org/llamaindex" width="40" alt="LlamaIndex" />
-      <img src="https://cdn.simpleicons.org/langgraph" width="40" alt="LangGraph" />
-      <img src="https://cdn.simpleicons.org/huggingface" width="40" alt="Hugging Face" />
-      <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat-square" height="40" alt="MCP" />
-    </td>
-  </tr>
-</table>
+| Sales Engineering | DevOps & DevSecOps | AI Engineering |
+|:---:|:---:|:---:|
+| ![Salesforce](https://cdn.simpleicons.org/salesforce/00A1E0) | ![Git](https://cdn.simpleicons.org/git/F05032) | ![Python](https://cdn.simpleicons.org/python/3776AB) |
+| ![ZoomInfo](https://cdn.simpleicons.org/zoominfo/005A9C) | ![Linux](https://cdn.simpleicons.org/linux/FCC624) | ![FastAPI](https://cdn.simpleicons.org/fastapi/009688) |
+| ![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2) | ![Docker](https://cdn.simpleicons.org/docker/2496ED) | ![Anthropic](https://cdn.simpleicons.org/anthropic/D4A27F) |
+| ![HubSpot](https://cdn.simpleicons.org/hubspot/FF7A59) | ![Kubernetes](https://cdn.simpleicons.org/kubernetes/326CE5) | ![OpenAI](https://cdn.simpleicons.org/openai/412991) |
+| ![Postman](https://cdn.simpleicons.org/postman/FF6C37) | ![AWS](https://cdn.simpleicons.org/amazonaws/FF9900) | ![LangChain](https://cdn.simpleicons.org/langchain/1C3C3C) |
+| ![Swagger](https://cdn.simpleicons.org/swagger/85EA2D) | ![Terraform](https://cdn.simpleicons.org/terraform/844FBA) | ![LlamaIndex](https://cdn.simpleicons.org/llamaindex/6B4FBB) |
+| ![Jira](https://cdn.simpleicons.org/jira/0052CC) | ![GitHub Actions](https://cdn.simpleicons.org/githubactions/2088FF) | ![LangGraph](https://cdn.simpleicons.org/langgraph/1C3C3C) |
+| ![Slack](https://cdn.simpleicons.org/slack/4A154B) | ![Trivy](https://cdn.simpleicons.org/trivy/1904DA) | ![Hugging Face](https://cdn.simpleicons.org/huggingface/FFD21E) |
+|  | ![SonarQube](https://cdn.simpleicons.org/sonarqube/4E9BCD) | ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat-square) |
+|  | ![OWASP](https://cdn.simpleicons.org/owasp/000000) |  |
 
 ## Selected Work
 
