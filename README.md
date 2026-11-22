@@ -36,20 +36,61 @@ Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, a
 
 Exploring how to turn AI capabilities into useful applications and intelligent workflows by connecting models, data, and external tools to solve real-world engineering and business problems.
 
+
 ## Technology & Tools
 
-| Sales Engineering | DevOps & DevSecOps | AI Engineering |
-|:---:|:---:|:---:|
-| ![Salesforce](https://cdn.simpleicons.org/salesforce/00A1E0) | ![Git](https://cdn.simpleicons.org/git/F05032) | ![Python](https://cdn.simpleicons.org/python/3776AB) |
-| ![ZoomInfo](https://cdn.simpleicons.org/zoominfo/005A9C) | ![Linux](https://cdn.simpleicons.org/linux/FCC624) | ![FastAPI](https://cdn.simpleicons.org/fastapi/009688) |
-| ![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2) | ![Docker](https://cdn.simpleicons.org/docker/2496ED) | ![Anthropic](https://cdn.simpleicons.org/anthropic/D4A27F) |
-| ![HubSpot](https://cdn.simpleicons.org/hubspot/FF7A59) | ![Kubernetes](https://cdn.simpleicons.org/kubernetes/326CE5) | ![OpenAI](https://cdn.simpleicons.org/openai/412991) |
-| ![Postman](https://cdn.simpleicons.org/postman/FF6C37) | ![AWS](https://cdn.simpleicons.org/amazonaws/FF9900) | ![LangChain](https://cdn.simpleicons.org/langchain/1C3C3C) |
-| ![Swagger](https://cdn.simpleicons.org/swagger/85EA2D) | ![Terraform](https://cdn.simpleicons.org/terraform/844FBA) | ![LlamaIndex](https://cdn.simpleicons.org/llamaindex/6B4FBB) |
-| ![Jira](https://cdn.simpleicons.org/jira/0052CC) | ![GitHub Actions](https://cdn.simpleicons.org/githubactions/2088FF) | ![LangGraph](https://cdn.simpleicons.org/langgraph/1C3C3C) |
-| ![Slack](https://cdn.simpleicons.org/slack/4A154B) | ![Trivy](https://cdn.simpleicons.org/trivy/1904DA) | ![Hugging Face](https://cdn.simpleicons.org/huggingface/FFD21E) |
-|  | ![SonarQube](https://cdn.simpleicons.org/sonarqube/4E9BCD) | ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat-square) |
-|  | ![OWASP](https://cdn.simpleicons.org/owasp/000000) |  |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Sales Engineering</h3>
+      <p align="center">
+        <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="30" alt="Salesforce" />
+        <img src="https://cdn.simpleicons.org/zoominfo/005A9C" height="30" alt="ZoomInfo" />
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" />
+        <img src="https://cdn.simpleicons.org/hubspot/FF7A59" height="30" alt="HubSpot" />
+        <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" />
+        <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="30" alt="Swagger" />
+        <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="Jira" />
+        <img src="https://cdn.simpleicons.org/slack/4A154B" height="30" alt="Slack" />
+      </p>
+    </td>
+
+   <td width="33%" valign="top">
+      <h3 align="center">DevOps & DevSecOps</h3>
+      <p align="center">
+        <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
+        <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="Linux" />
+        <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />
+        <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="Kubernetes" />
+        <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="30" alt="AWS" />
+        <img src="https://cdn.simpleicons.org/terraform/844FBA" height="30" alt="Terraform" />
+        <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="GitHub Actions" />
+        <img src="https://cdn.simpleicons.org/trivy/1904DA" height="30" alt="Trivy" />
+        <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="30" alt="SonarQube" />
+        <img src="https://cdn.simpleicons.org/owasp/000000" height="30" alt="OWASP" />
+      </p>
+    </td>
+
+   <td width="33%" valign="top">
+      <h3 align="center">Applied AI</h3>
+      <p align="center">
+        <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python" />
+        <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="FastAPI" />
+        <img src="https://cdn.simpleicons.org/anthropic/D4A27F" height="30" alt="Anthropic Claude API" />
+        <img src="https://cdn.simpleicons.org/openai/412991" height="30" alt="OpenAI" />
+        <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="30" alt="LangChain" />
+        <img src="https://cdn.simpleicons.org/llamaindex/6B4FBB" height="30" alt="LlamaIndex" />
+        <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="30" alt="LangGraph" />
+        <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="30" alt="Hugging Face" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat-square" height="25" alt="Model Context Protocol" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Focus Areas
 
 ## Selected Work
 
