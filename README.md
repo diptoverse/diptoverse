@@ -36,19 +36,50 @@ Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, a
 
 Exploring how to turn AI capabilities into useful applications and intelligent workflows by connecting models, data, and external tools to solve real-world engineering and business problems.
 
-## Technology
+## Technology & Tools
 
-<p align="left">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CNCF-264A8A?style=flat&logo=cncf&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Sales Engineering</h3>
+      <img src="https://cdn.simpleicons.org/salesforce" width="40" alt="Salesforce" />
+      <img src="https://cdn.simpleicons.org/zoominfo" width="40" alt="ZoomInfo" />
+      <img src="https://cdn.simpleicons.org/linkedin" width="40" alt="LinkedIn" />
+      <img src="https://cdn.simpleicons.org/hubspot" width="40" alt="HubSpot" />
+      <img src="https://cdn.simpleicons.org/postman" width="40" alt="Postman" />
+      <img src="https://cdn.simpleicons.org/swagger" width="40" alt="Swagger" />
+      <img src="https://cdn.simpleicons.org/jira" width="40" alt="Jira" />
+      <img src="https://cdn.simpleicons.org/slack" width="40" alt="Slack" />
+    </td>
+
+    <td align="center" width="33%">
+      <h3>DevOps & DevSecOps</h3>
+      <img src="https://cdn.simpleicons.org/git" width="40" alt="Git" />
+      <img src="https://cdn.simpleicons.org/linux" width="40" alt="Linux" />
+      <img src="https://cdn.simpleicons.org/docker" width="40" alt="Docker" />
+      <img src="https://cdn.simpleicons.org/kubernetes" width="40" alt="Kubernetes" />
+      <img src="https://cdn.simpleicons.org/amazonaws" width="40" alt="AWS" />
+      <img src="https://cdn.simpleicons.org/terraform" width="40" alt="Terraform" />
+      <img src="https://cdn.simpleicons.org/githubactions" width="40" alt="GitHub Actions" />
+      <img src="https://cdn.simpleicons.org/trivy" width="40" alt="Trivy" />
+      <img src="https://cdn.simpleicons.org/sonarqube" width="40" alt="SonarQube" />
+      <img src="https://cdn.simpleicons.org/owasp" width="40" alt="OWASP" />
+    </td>
+
+    <td align="center" width="33%">
+      <h3>AI Engineering</h3>
+      <img src="https://cdn.simpleicons.org/python" width="40" alt="Python" />
+      <img src="https://cdn.simpleicons.org/fastapi" width="40" alt="FastAPI" />
+      <img src="https://cdn.simpleicons.org/anthropic" width="40" alt="Anthropic Claude API" />
+      <img src="https://cdn.simpleicons.org/openai" width="40" alt="OpenAI" />
+      <img src="https://cdn.simpleicons.org/langchain" width="40" alt="LangChain" />
+      <img src="https://cdn.simpleicons.org/llamaindex" width="40" alt="LlamaIndex" />
+      <img src="https://cdn.simpleicons.org/langgraph" width="40" alt="LangGraph" />
+      <img src="https://cdn.simpleicons.org/huggingface" width="40" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat-square" height="40" alt="MCP" />
+    </td>
+  </tr>
+</table>
 
 ## Selected Work
 
