@@ -1,3 +1,4 @@
+
 # Hi, I'm Dipto!
 
 ### Sales Engineering | Kubernetes & Cloud Native DevOps | Applied AI
@@ -7,6 +8,49 @@ A journey shaped by curiosity about technology, communication, and problem solvi
 From debating during school and university to working with enterprise technology, I have always been drawn to understanding different perspectives, breaking down complex ideas, and finding practical ways to solve problems.
 
 My professional journey has been rooted in enterprise Sales Engineering, working at the intersection of technology, customer challenges, and business outcomes. Alongside that experience, I am expanding my technical depth through cloud engineering, DevOps, and applied AI.
+
+## Technology & Tools
+
+### Sales Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/ZoomInfo-005A9C?style=flat&logo=zoominfo&logoColor=white" alt="ZoomInfo" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
+</p>
+
+### DevOps & DevSecOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP" />
+</p>
+
+### Applied AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat" alt="Model Context Protocol" />
+</p>
 
 ## Focus Areas
 
@@ -35,62 +79,6 @@ Building and documenting practical implementations across cloud infrastructure a
 Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, agentic workflows, APIs, tool integrations, and AI application development.
 
 Exploring how to turn AI capabilities into useful applications and intelligent workflows by connecting models, data, and external tools to solve real-world engineering and business problems.
-
-
-## Technology & Tools
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Sales Engineering</h3>
-      <p align="center">
-        <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="30" alt="Salesforce" />
-        <img src="https://cdn.simpleicons.org/zoominfo/005A9C" height="30" alt="ZoomInfo" />
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" />
-        <img src="https://cdn.simpleicons.org/hubspot/FF7A59" height="30" alt="HubSpot" />
-        <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" />
-        <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="30" alt="Swagger" />
-        <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="Jira" />
-        <img src="https://cdn.simpleicons.org/slack/4A154B" height="30" alt="Slack" />
-      </p>
-    </td>
-
-   <td width="33%" valign="top">
-      <h3 align="center">DevOps & DevSecOps</h3>
-      <p align="center">
-        <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
-        <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="Linux" />
-        <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />
-        <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="Kubernetes" />
-        <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="30" alt="AWS" />
-        <img src="https://cdn.simpleicons.org/terraform/844FBA" height="30" alt="Terraform" />
-        <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="GitHub Actions" />
-        <img src="https://cdn.simpleicons.org/trivy/1904DA" height="30" alt="Trivy" />
-        <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="30" alt="SonarQube" />
-        <img src="https://cdn.simpleicons.org/owasp/000000" height="30" alt="OWASP" />
-      </p>
-    </td>
-
-   <td width="33%" valign="top">
-      <h3 align="center">Applied AI</h3>
-      <p align="center">
-        <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python" />
-        <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="FastAPI" />
-        <img src="https://cdn.simpleicons.org/anthropic/D4A27F" height="30" alt="Anthropic Claude API" />
-        <img src="https://cdn.simpleicons.org/openai/412991" height="30" alt="OpenAI" />
-        <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="30" alt="LangChain" />
-        <img src="https://cdn.simpleicons.org/llamaindex/6B4FBB" height="30" alt="LlamaIndex" />
-        <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="30" alt="LangGraph" />
-        <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="30" alt="Hugging Face" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat-square" height="25" alt="Model Context Protocol" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-## Focus Areas
 
 ## Selected Work
 
@@ -121,6 +109,7 @@ I believe in building with technical depth, thinking from the customer's perspec
 Open to conversations and opportunities across Sales Engineering, Solutions Engineering, Kubernetes, Cloud Native technologies, DevOps, and AI Engineering.
 
 [LinkedIn](https://www.linkedin.com/in/dipto-brata-das/) · [GitHub](https://github.com/diptoverse)
+
 ---
 
 *Understand the technology. Engineer the solution. Bring it to market.*
